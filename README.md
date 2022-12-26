@@ -1,5 +1,7 @@
 # StudentenDatenBank
 
+![Capture](https://user-images.githubusercontent.com/107800577/209555586-b29112cf-85b2-4c0c-a706-da234f46ed7e.JPG)
+
 Erstellen Sie eine initiale Textdatei für mehrere Studenten mit den oben genannten Angaben.
 
 Entwickeln Sie danach ein Java-Programm mit grafischer Oberfläche, das folgende Funktionalität umsetzt:
